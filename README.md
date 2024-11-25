@@ -18,3 +18,4 @@ The reading order:
 * 04 - Matrix Factorisation Model
 * 05 - Neural Collaborative Filter Model
 * 06 - Conclusion
+
