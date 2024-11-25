@@ -11,6 +11,7 @@
 All report content is in the directory
 * Report
 
+The test and train data sets used have been places in a folder called 'data sets' found in the Report depository.
 The reading order:
 * 01 - Introduction
 * 02 - EDA
