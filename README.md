@@ -19,3 +19,11 @@ The reading order:
 * 05 - Neural Collaborative Filter Model
 * 06 - Conclusion
 
+## Evidence
+Our individual working is in our own repositories
+* Alan G
+* Alex SJ
+* Daniel T
+* Katherine W
+
+The group split into 2 pairs to work on the two models. Alex and Katherine worked on the neural collaborative filter, and Dan and Alan worked on the matrix factorisation model. The models were then compared against the base model and each other. 
