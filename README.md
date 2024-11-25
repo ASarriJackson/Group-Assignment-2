@@ -13,12 +13,12 @@ All report content is in the directory
 
 The test and train data sets used have been places in a folder called 'data sets' found in the Report depository.
 The reading order:
-* 01 - Introduction
-* 02 - EDA
-* 03 - Base Model
-* 04 - Matrix Factorisation Model
-* 05 - Neural Collaborative Filter Model
-* 06 - Conclusion
+* 01 - Introduction.pdf
+* 02 - EDA.ipynb
+* 03 - Base Model.ipynb
+* 04 - Matrix Factorisation Model.ipynb
+* 05 - Neural Collaborative Filter Model.ipynb
+* 06 - Conclusion.pdf
 
 ## Evidence
 Our individual working is in our own repositories
