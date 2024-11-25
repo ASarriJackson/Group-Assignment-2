@@ -9,7 +9,7 @@
 
 ## Reading Order
 All report content is in the directory
-*Report
+* Report
 
 The reading order:
 * 01 - Introduction
