@@ -9,11 +9,13 @@
 
 ## Reading Order
 All report content is in the directory
-*Report
+* Report
 
 The reading order:
 * 01 - Introduction
 * 02 - EDA
-* 03 - Matrix Factorisation Model
-* 04 - Neural Collaborative Filter Model
-* 05 - Conclusion
+* 03 - Base Model
+* 04 - Matrix Factorisation Model
+* 05 - Neural Collaborative Filter Model
+* 06 - Conclusion
+
