@@ -17,7 +17,7 @@ The reading order:
 * 02 - EDA.ipynb
 * 03 - Base Model.ipynb
 * 04 - Matrix Factorisation Model.ipynb
-* 05 - Neural Collaborative Filter Model.ipynb
+* 05 - Neural Network Collaborative Filter Model.ipynb
 * 06 - Conclusion.pdf
 
 ## Evidence
