@@ -28,3 +28,6 @@ Our individual working is in our own repositories
 * Katherine W
 
 The group split into 2 pairs to work on the two models. Alex and Katherine worked on the neural collaborative filter, and Dan and Alan worked on the matrix factorisation model. The models were then compared against the base model and each other. 
+
+## Warning
+We faced some issues trying to run Matrix Factorization Model.ipynb locally, we all managed to get it working on noteable so if you get a JAVA error running it on your computer try exporting to noteable.
